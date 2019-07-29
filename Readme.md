@@ -1,5 +1,5 @@
-Our project CURA CORDIS ( PERSONALIZED HEART CARE SYSTEM)
-has been done as a part of our minor project for the Bachelor of technology at
+This project CURA CORDIS ( PERSONALIZED HEART CARE SYSTEM)
+has been done as a part of my minor project for the Bachelor of technology at
 Jaypee institute of Information and Technology. We started our Project at the
 beginning of month January and we had around four months to fulfill this task and
 we have to submit this Project at the end of the month April . We used to have
